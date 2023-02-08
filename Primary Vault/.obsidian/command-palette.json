@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "obsidian-tasks-plugin:edit-task",
+    "templater-obsidian:create-new-note-from-template",
+    "dataview:dataview-force-refresh-views",
+    "find-unlinked-files:find-unlinked-files",
+    "find-unlinked-files:find-unresolved-link",
+    "find-unlinked-files:find-empty-files"
+  ]
+}

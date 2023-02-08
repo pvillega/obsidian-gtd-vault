@@ -1,0 +1,22 @@
+{
+  "obsidianCss": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "useTab": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldHeading": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "Media",
+  "showInlineTitle": false,
+  "newFileFolderPath": "GTD/Inbox",
+  "promptDelete": false
+}

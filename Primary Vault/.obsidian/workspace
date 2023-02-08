@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "82bcc02da63a1370",
+    "type": "split",
+    "children": [
+      {
+        "id": "b508d15d1425845f",
+        "type": "leaf",
+        "dimension": 1.1235955056179776,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "33d2b43d70bb8aca",
+        "type": "leaf",
+        "dimension": 4.49438202247191,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "ad3c37e18895d918",
+        "type": "leaf",
+        "dimension": 4.49438202247191,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a511a6567865e226",
+        "type": "leaf",
+        "dimension": 17.97752808988764,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6fd909381d76a055",
+        "type": "leaf",
+        "dimension": 71.91011235955057,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38516e8db5c24bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "78cdc3d3dae27b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ca5a51a87d1b6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2f36bcda2895925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#buildinpublic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08379147904aead1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "43249714646f6e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb5986375d16949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69fb8e4a4bd84da5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "799405daab2a73c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "509b4c0c2ddffd2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b412422cfcfcecf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5ca61845ae2f878",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "979b0c5494dcf02d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330
+  },
+  "active": "b508d15d1425845f",
+  "lastOpenFiles": [
+    "Meta/Daily/2022-10-15.md",
+    "Meta/Daily/2022-10-16.md",
+    "Meta/Daily/2022-10-14.md",
+    "Tasks/Future Projects/Projects/Builder Framework.md",
+    "zConsulting tasks/Podcasting info.md",
+    "Meta/Daily/2022-10-13.md",
+    "Notes GTD.md",
+    "Inbox-Do.md",
+    "Tasks/Future Projects/Projects/Hardcore Artificial Life.md",
+    "Bevy steps.md"
+  ]
+}

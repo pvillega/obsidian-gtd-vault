@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "82bcc02da63a1370",
+    "type": "split",
+    "children": [
+      {
+        "id": "862a753f8fd79aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a366b61bb701f0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD/Inbox/iOS Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1453cf7e5db1a430",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6567a4cd1594523f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c48b0e2f7620dc9e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "396993aa05ff0a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9fea95d9db0a4e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "48f9ae09e8042ddd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "61fa9df22bf5f3ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dc9b907ed822610",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3afb8e4831c3cdf3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c1c82d7b2b7bbc4f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Christmas ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3f4d26057eb20e0e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "496597d16bbe82f4",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "26c42b150da7c68c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f98ba4bcfdd3d824",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e272434bd6e9c3f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "GTD/Inbox/iOS Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ce54a2af480b492d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "GTD/Inbox/iOS Notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "29ad61ba912ab366",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "GTD/Inbox/iOS Notes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a366b61bb701f0db",
+  "lastOpenFiles": [
+    "GTD/Some day/Actions for Some Day.md",
+    "GTD/Inbox/iOS Notes.md",
+    "Meta/Daily/2022/12/22/2022-12-22.md",
+    "Meta/Daily/2022/12/03/2022-12-03.md",
+    "Meta/Daily/2022/12/02/2022-12-02.md",
+    "Meta/Daily/2022/11/28/2022-11-28.md",
+    "Meta/Daily/2022/11/12/2022-11-12.md",
+    "GTD/Inbox/Unison.md",
+    "GTD/Inbox/Roguelike Cthulu project.md",
+    "Meta/Daily/2022/11/05/2022-11-05.md"
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "82bcc02da63a1370",
+        "type": "split",
+        "children": [
+          {
+            "id": "c598122efdcd9e06",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Meta/Daily/2021-07-04.md"
+              }
+            }
+          },
+          {
+            "id": "f8c5eeeb2cae27c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo List.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2b229085e1195f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Serverless learning resources.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "42d16791384f0d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Data/AWS AppSync.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "7c5c645f9d337cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Data/Serverless Framework.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "38516e8db5c24bac",
+        "type": "split",
+        "children": [
+          {
+            "id": "78cdc3d3dae27b1d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b8ca5a51a87d1b6a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2f36bcda2895925",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "10k",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "53af2fe42e662dee",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "43249714646f6e30",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb5986375d16949",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69fb8e4a4bd84da5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Meta/Daily/2021-07-04.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9db77bdbce5837e8",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "423612e024674737",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "95dc5c9f04f13c2f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3808375c7f152e94",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "799405daab2a73c2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "509b4c0c2ddffd2d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b412422cfcfcecf3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "69f1ad618e97df80",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "c598122efdcd9e06"
+    },
+    "GTD": {
+      "main": {
+        "id": "82bcc02da63a1370",
+        "type": "split",
+        "children": [
+          {
+            "id": "862a753f8fd79aa1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74984aa8b2b09f6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/Inbox/iOS Notes.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "396993aa05ff0a4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d3429756263e93e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/Docs/GTD in short.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d3742bfab6853aae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/Docs/My GTD implementation.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "61fa9df22bf5f3ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "orphaned files output.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2235a96efb5332e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "52035a9ac365292f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meta/Daily/2022/11/01/2022-11-01.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "38516e8db5c24bac",
+        "type": "split",
+        "children": [
+          {
+            "id": "78cdc3d3dae27b1d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b8ca5a51a87d1b6a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "08379147904aead1",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 301
+      },
+      "right": {
+        "id": "43249714646f6e30",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fb5986375d16949",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "799405daab2a73c2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a5ca61845ae2f878",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b412422cfcfcecf3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f2f36bcda2895925",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "80fa7f502ae468e8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75701f5bb382274b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "GTD/Docs/GTD Flowchart.png"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "4809a6e57c771385",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "509b4c0c2ddffd2d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "GTD/Docs/GTD in short.md"
+                  }
+                }
+              },
+              {
+                "id": "b6aa1729820651b3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "GTD/Docs/GTD in short.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0fdbcfcb2998cd91",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "GTD/Docs/GTD in short.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 330
+      },
+      "active": "9d3429756263e93e"
+    }
+  },
+  "active": "GTD"
+}
